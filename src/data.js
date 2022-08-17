@@ -4,16 +4,16 @@ export const projects = [
       subtitle: "React, TailwindCSS",
       description:
         "A portfolio website",
-      image: "./lapwork.jpg",
-      link: "https://eva-portfolio.com",
+      image: "./portfolio.png",
+      link: "/",
     },
     {
       title: "Polongo",
       subtitle: "React and Java",
       description:
         "Developed the UI for the Polongo app, a social media application designed to engerder community development ",
-      image: "./codegirl.jpg",
-      link: "https://polongo.com",
+      image: "./polongo.png",
+      link: "https://stingray-app-2exms.ondigitalocean.app/signup",
     },
     {
       title: "Addstore",
@@ -62,7 +62,7 @@ export const projects = [
     },
     {
       quote: "Testimonial",
-      name: "Columnist",
+      name: "Team Smart Citi",
       company:
         "Geohackathon",
       image: "./colu.jpg",
