@@ -16,12 +16,12 @@ export const projects = [
       link: "https://stingray-app-2exms.ondigitalocean.app/signup",
     },
     {
-      title: "Addstore",
-      subtitle: "React, CSS",
+      title: "Wakand",
+      subtitle: "React, Bootstrap, CSS",
       description:
-        "An online store for customized printing of T-shirts, Tote-bags and other merch.",
-      image: "./store.jpg",
-      link: "https://addressedprints.com.ng",
+        "Landing page for a website. Wakanda CRM is Built to Bridge the Gap between your Business and Customers, Management and Staff.",
+      image: "./wakanda.png",
+      link: "https://evawonderful.github.io/wakanda/",
     },
     {
       title: "Smart Citi",
