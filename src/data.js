@@ -31,6 +31,14 @@ export const projects = [
       image: "./citi.png",
       link: "https://goofy-morse-c0b2e1.netlify.app/",
     },
+    {
+      title: "Landing Page",
+      subtitle: "HTML, Bootstrap",
+      description:
+        "A landing page to promote a product before launch and to get people to join the ailist.",
+      image: "./arenalanding.png",
+      link: "https://evawonderful.github.io/landing-promo-page/",
+    },
   ];
 
   export const skills = [
